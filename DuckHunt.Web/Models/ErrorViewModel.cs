@@ -1,5 +1,3 @@
-using System;
-
 namespace DuckHunt.Web.Models
 {
     public class ErrorViewModel
